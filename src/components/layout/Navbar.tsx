@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <Shield className="h-8 w-8 text-indigo-500" />
-              <span className="ml-2 text-xl font-bold text-white">Citizen Management System</span>
+              <span className="ml-2 text-xl font-bold text-white">Citizen complaint system</span>
             </Link>
           </div>
           
